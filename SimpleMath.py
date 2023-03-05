@@ -9,7 +9,7 @@ def Power(num: int or float, powerof: int or float) -> float or int:
         powerof (int or float): number to the power of
 
     Returns:
-        float or int: 'num^powerof'
+    float or int: 'num^powerof'
     """
     __val__ = 1
 
