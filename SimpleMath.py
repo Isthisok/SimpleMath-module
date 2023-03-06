@@ -138,9 +138,9 @@ def QuadraticEquation(a: int or float, b: int or float, c: int or float) -> int 
     Finds the roots of a quadratic equation given the variables a, b, and c in the form 'ax^2 + bx + c = 0'
 
     Args:
-        a (int or float): _description_
-        b (int or float): _description_
-        c (int or float): _description_
+        a (int or float): Value of a
+        b (int or float): Value of b
+        c (int or float): Value of c
 
     Returns:
         int or float or list or bool: If there are no roots it returns the boolean value False. If there is one root it gives the value as an integer or float. If there are two values it gives the values as a list
